@@ -1,5 +1,10 @@
 ![Header](https://github.com/cyber-security-dev/cyber-security-dev/blob/main/assets/Blue%20Futuristic%20Technology%20Linkedln%20Banner%20(2).png)
 
+## I’m beginner Cyber Security Analyst Penetration Tester and Software Developer.
+
+## Languages and Tools
+[Python](https://img.shields.io/badge/any_text-you_like-blue)
+
 <!--
 **cyber-security-dev/cyber-security-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
