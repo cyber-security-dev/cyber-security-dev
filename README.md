@@ -4,12 +4,16 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/%20Python%20-6b6296?style=for-the-badge&logo=Python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/bash%20script%20-6b6296?style=for-the-badge&logo=BashScript&logoColor=ffffff)
 
 ![VS Code](https://img.shields.io/badge/VS%20Code%20-628ce8?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20-628ce8?style=for-the-badge&logo=BurpSuite&logoColor=ffffff)
 
 ### Follow Me
 [![Linkedin](https://img.shields.io/badge/%20linkedin%20-91aaed?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tetiana-hartley-978aaa269/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-security-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cyber-security-dev/cyber-security-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
