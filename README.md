@@ -1,9 +1,15 @@
-![Header](https://github.com/cyber-security-dev/cyber-security-dev/blob/main/assets/Blue%20Futuristic%20Technology%20Linkedln%20Banner%20(2).png)
+![Header](https://github.com/cyber-security-dev/cyber-security-dev/blob/main/assets/Blue%20Futuristic%20Technology%20Banner.png)
 
 ## I’m beginner Cyber Security Analyst Penetration Tester and Software Developer.
 
-## Languages and Tools
-[Python](https://img.shields.io/badge/any_text-you_like-blue)
+### Languages and Tools
+![Python](https://img.shields.io/badge/%20Python%20-6b6296?style=for-the-badge&logo=Python&logoColor=ffffff)
+
+![VS Code](https://img.shields.io/badge/VS%20Code%20-628ce8?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20-628ce8?style=for-the-badge&logo=BurpSuite&logoColor=ffffff)
+
+### Follow Me
+[![Linkedin](https://img.shields.io/badge/%20linkedin%20-91aaed?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tetiana-hartley-978aaa269/)
 
 <!--
 **cyber-security-dev/cyber-security-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
