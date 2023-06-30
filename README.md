@@ -12,7 +12,7 @@
 ### Follow Me
 [![Linkedin](https://img.shields.io/badge/%20linkedin%20-91aaed?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tetiana-hartley-978aaa269/)
 
-I am currently working on populating my profile on GitHub. I'll be adding more of my projects and more of the technologies and tools I'm working with in the near future. :smiley:
+I am currently working on my profile on GitHub. I'll be adding more of my projects and more of the technologies and tools I'm working with in the forcible future.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-security-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
